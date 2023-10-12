@@ -1,0 +1,29 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    Encyclopedia : New
+{% endblock %}
+
+{% block body %}
+    
+    <form action="{% url 'new' %}" method="post"> 
+        {% csrf_token %}
+        <label>Enter the name of your entry : </label>
+        <input type="text" name="title" placeholder="Name (Must be unique)">
+        <br>
+        <br>
+
+        <div>
+        <textarea name="content" placeholder="Write about your entry in Markdown." rows="4" cols="50"></textarea>
+        </div>
+        <br>
+        <br>
+
+        <button type="submit">Submit</button>
+        <br>
+        <br>
+
+        <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Basic writing and formatting syntax.</a>
+    </form>
+
+{% endblock %}
