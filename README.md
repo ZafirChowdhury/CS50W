@@ -9,7 +9,7 @@ I used to look at other peoples solutions after doing the projects to get a diff
 
 ## Demo video links - 
 
-[Search] (https://youtu.be/DlLBuNX9RLY)
-[Wiki] (https://youtu.be/yW3uyGYEBsM)
-[Commerce] (https://youtu.be/nfDqGcfPSCk)
+[Search](https://youtu.be/DlLBuNX9RLY)
+[Wiki](https://youtu.be/yW3uyGYEBsM)
+[Commerce](https://youtu.be/nfDqGcfPSCk)
 
