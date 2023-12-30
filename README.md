@@ -1,11 +1,11 @@
 # CS50W
-All that I did in CS50W.
+All that I did in [CS50W](https://cs50.harvard.edu/web/2020/).
 
 Why does this exist?
 
-To look back at what I did in CS50’s Web Programming with Python and JavaScript.
+This repo is for those who have finished the problem sets and want to see other peoples approach to problems and is NOT meant for those actively doing the problem sets. See CS50's [Academic Honesty](https://cs50.harvard.edu/x/2023/honesty/) to learn more.
 
-I used to look at other peoples solutions after doing the projects to get a different perspective/approach to a problem. Solutions may be suboptimal but they might help someone.
+And for me to look back at what I did in CS50’s Web Programming with Python and JavaScript.
 
 ## Demo video links - 
 
